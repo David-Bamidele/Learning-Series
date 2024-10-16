@@ -38,7 +38,6 @@ The bootcamp curriculum is divided into various modules, starting from the basic
 
 Throughout the series, we worked on a variety of mini-projects to apply what we learned. Some of these include:
 
-- **Temperature Converter**: Building a small app to convert temperatures between Celsius and Fahrenheit.
 - **Text-based Calculator**: Creating a calculator that performs basic arithmetic operations.
 - **Basic Data Analysis on a Public Dataset**: Conducting exploratory analysis on a dataset using pandas and visualizations.
 - **Movie Recommendation System**: Developing a simple recommendation engine using cosine similarity.
@@ -52,25 +51,6 @@ The Python series concluded with a **capstone project** where we applied all the
 - **Model Building**: Implementing machine learning models to address the problem.
 - **Evaluation and Presentation**: Evaluating model performance and presenting insights and recommendations.
 
-### **How to Use**
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/python-series-datascience-bootcamp.git
-   ```
-
-2. **Navigate to the directory**:
-   ```bash
-   cd python-series-datascience-bootcamp
-   ```
-
-3. **Install the required libraries**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Jupyter notebooks**:
-   Use Jupyter Notebook or any Python IDE to explore the code and projects.
 
 ### **Contributions**
 
